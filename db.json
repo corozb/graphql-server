@@ -1,0 +1,19 @@
+{
+  "persons": [
+    {
+      "name": "Don Federico",
+      "phone": "123-456",
+      "street": "Avenida Senior",
+      "city": "San Francisco",
+      "id": "4435454-4848-7dg478dg"
+    },
+    {
+      "name": "Gaviota",
+      "phone": "123-456",
+      "street": "Avenida Fullstack",
+      "city": "San Francisco",
+      "id": "78794dg77468-4848-7dg478dg"
+    },
+    { "name": "Anibal", "street": "Avenida Testing", "city": "Rome", "id": "954dg754ae7-4848-7dg478dg" }
+  ]
+}
